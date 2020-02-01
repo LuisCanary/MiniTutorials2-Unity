@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2-NeatTransitions/1Scene.unity
+    guid: 28d18f014514063478e2a9a3a2434c0a
+  - enabled: 1
+    path: Assets/2-NeatTransitions/2Scene.unity
+    guid: 5fa856361b9eb574c9715e6e731e9d57
   m_configObjects: {}
